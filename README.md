@@ -1,5 +1,5 @@
 # Cameras 2++
-Rewrite of Cameras 2 in c++, works the same as cameras 2
+Uses ROS2 to allow other programs quick access to cameras as well as custom pipelines to process camera feeds for consumers such as the nova-gui web interface
 Split into two parts:
 
 ## camera_directory_service
